@@ -6,8 +6,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fydne&count_private=true&theme=chartreuse-dark&layout=compact">
 </a>
 
-<a href="https://github.com/fydne/Qurre-sl">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=fydne&repo=Qurre-sl&count_private=true&theme=chartreuse-dark&layout=compact">
+<a href="https://github.com/Qurre-Team/Qurre-sl">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Qurre-Team&repo=Qurre-sl&count_private=true&theme=chartreuse-dark&layout=compact">
 </a>
 <a href="https://github.com/fydne/SCPDiscordLogs">
   <img src="https://github-readme-stats.vercel.app/api/pin?username=fydne&repo=SCPDiscordLogs&count_private=true&theme=chartreuse-dark&layout=compact">
