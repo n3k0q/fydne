@@ -1,3 +1,6 @@
+<a href="https://scpsl.store">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=fydne">
+</a><br>
 <a href="https://fydne.xyz">
   <img src="https://github-readme-stats.vercel.app/api?username=fydne&count_private=true&theme=chartreuse-dark&show_icons=true">
 </a>
